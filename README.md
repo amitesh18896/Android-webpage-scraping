@@ -9,4 +9,4 @@ This app uses following external libraries
 * Retrofit 
 * RxJava 
 * AndroidX
-* Jsoup
+* Jsoup.
